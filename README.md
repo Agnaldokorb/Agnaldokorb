@@ -1,9 +1,9 @@
 ## 💻 Agnaldo korb | Engenheiro de Software em Formação 🙋‍♂️
 
 Sou uma pessoa apaixonada por tecnologia, e atualmente estou cursando bacharelado em Engenharia de Software na Unicesumar. 
-Meu sonho sempre foi fazer uma faculdade na área de desenvolvimento de software. Onde no ano de 2025 iniciei meu bacharelado na Unicesumar.  
+Meu sonho sempre foi fazer uma faculdade na área de desenvolvimento de software. Onde no ano de 2025 iniciei meu bacharelado.  
 
-Estou sempre buscando me aperfeiçoar nas últimas e mais usadas tecnologias do mercado, para assim crescer como profissional. 
+Estou sempre buscando me aperfeiçoar nas últimas e mais avançadas tecnologias do mercado, para assim crescer profissionalmente. 
 
 ## 📱MÍDIAS SOCIAIS E CONTATOS
 
