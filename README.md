@@ -17,3 +17,8 @@ Estou sempre buscando me aperfeiçoar nas últimas e mais usadas tecnologias do 
 
 ## 🖥️ FERRAMENTAS DE DESENVOLVIMENTO
 [![My Skills](https://skillicons.dev/icons?i=eclipse,vscode,git,windows,linux&theme=light)](https://skillicons.dev)
+
+
+## 💻 STATUS 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aGNALDOKORB)](https://github.com/anuraghazra/github-readme-stats)
