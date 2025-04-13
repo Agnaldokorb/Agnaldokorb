@@ -7,7 +7,7 @@ Estou sempre buscando me aperfeiçoar nas últimas e mais avançadas tecnologias
 
 ## 📱MÍDIAS SOCIAIS E CONTATOS
 
-[![Site](https://img.shields.io/website?label=NOVOCODE.COM.BR&style=for-the-badge&url=https://https/agnaldo.dev.br)](https://novocode.com.br)
+[![Site](https://img.shields.io/website?label=PORTIFOLIO.NOVOCODE.COM.BR&style=for-the-badge&url=https://portifolio.novocode.com.br/)](https://portifolio.novocode.com.br/)
 [![Site](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/b10zyt)
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnaldo-korb)
 
