@@ -12,7 +12,7 @@ Estou sempre buscando me aperfeiçoar nas últimas e mais avançadas tecnologias
 [![Site](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agnaldo-korb)
 
 ## TECNOLOGIAS QUE ESTOU ESTUDANDO
-[![My Skills](https://skillicons.dev/icons?i=java,cs,py,js,css,html,mysql,mongo&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,py,js,css,html,nodejs,react,flutter,firebase,supabase&theme=light)](https://skillicons.dev)
  
 
 ## 🖥️ FERRAMENTAS DE DESENVOLVIMENTO
